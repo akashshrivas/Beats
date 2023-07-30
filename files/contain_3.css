@@ -1,0 +1,84 @@
+.third_container{
+    display: flex;
+    width: 100%;
+    height: 800px;
+   
+
+}
+.wrapper{
+
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+
+}
+
+.leftc3{
+    border-radius: 15px;
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+    background-image: url("/Assets/Photos/Rectangle\ 57.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.rightc3{
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+    /* align-items: center; */
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+   
+
+}
+
+.links3{
+    margin-left: 10px;
+    display: flex;
+    padding-left: 50px;
+    
+}
+
+
+
+.links3 a{
+    margin-left: 20px;
+    align-self: center;
+    padding: 15px;
+    text-decoration: none;
+    border: 1px solid red;
+    margin: 20px;
+    color: red;
+}
+
+#colored_btn{
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+#c3_text{
+    color: black;
+    font-size:50px;
+    text-align: left;
+
+}
+
+#c3_para{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
